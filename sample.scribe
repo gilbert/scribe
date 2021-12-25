@@ -1,0 +1,3 @@
+An "EOA" is an "address". An EOA can "deploy" a "contract".
+
+A "deployer" is an EOA that deploys a contract.
